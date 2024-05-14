@@ -2,7 +2,7 @@
 
 This project can be used to reproduce the experiments presented in:
 
-- Scalable Safe Policy Improvement for Factored Multi-Agent MDPs
+- Federico Bianchi, Edoardo Zorzi, Alberto Castellini Thiago D. Simão, Matthijs T. J. Spaan, Alessandro Farinelli, "Scalable Safe Policy Improvement for Factored Multi-Agent MDPs" 
 
 
 # Prerequisites
@@ -44,6 +44,7 @@ We include the following:
 
 # Reference
 If you use our code in your work, please kindly cite our paper:
+- Federico Bianchi, Edoardo Zorzi, Alberto Castellini Thiago D. Simão, Matthijs T. J. Spaan, Alessandro Farinelli, "Scalable Safe Policy Improvement for Factored Multi-Agent MDPs" 
 
 # License
 
