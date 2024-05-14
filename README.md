@@ -42,6 +42,9 @@ We include the following:
 - Alberto Castellini (alberto.castellini@univr.it)
 - Alessandro Farinelli (alessandro.farinelli@univr.it)
 
+# Reference
+If you use our code in your work, please kindly cite our paper:
+
 # License
 
 This project is GPLv3-licensed. 
